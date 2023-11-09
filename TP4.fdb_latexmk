@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1699574117 "/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex" "TP4.pdf" "TP4" 1699574118 0
+["pdflatex"] 1699574287 "/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex" "TP4.pdf" "TP4" 1699574288 0
   "/home/rami/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1695306460 5581261 9420d8bd1f5a3f106884e910c27f195c ""
   "/home/rami/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1698694739 20963062 a08879c9e88321a14e90bb5fc3fbd6f8 ""
   "/home/rami/.miktex/texmfs/install/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1695305384 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -136,9 +136,9 @@
   "/home/rami/.miktex/texmfs/install/tex/latex/translations/translations.sty" 1695306326 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "/home/rami/.miktex/texmfs/install/tex/latex/ulem/ulem.sty" 1695306352 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "/home/rami/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1695306414 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex" 1699574116 972 f60ca7d1fecd022543174d105dab096a ""
-  "TP4.aux" 1699574118 340 81c6a72653bd3d166227f62bfe02d865 "pdflatex"
-  "TP4.tex" 1699574116 972 f60ca7d1fecd022543174d105dab096a ""
+  "/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex" 1699574257 969 289c7d6e2254bfbcbe3ed8d5254cc32c ""
+  "TP4.aux" 1699574288 337 c18260656f2acb688643ad68bb1f62dc "pdflatex"
+  "TP4.tex" 1699574257 969 289c7d6e2254bfbcbe3ed8d5254cc32c ""
   (generated)
   "TP4.aux"
   "TP4.log"
