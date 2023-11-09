@@ -14,7 +14,7 @@
 
 \captionsetup[figure]{name=Fig.} % Change the label for figures
 
-\title{TP3 - Teoría de Circuitos 1\\Análisis de circuito RLC}
+\title{TP4 - Teoría de Circuitos 1\\ Acoplamiento Magnético y Cuadripolos}
 
 \author{Autores: \\Pla, Juan Ignacio (63486)\\Torino, Joaquín (63140)\\Caviglia, Facundo (63178)\\Belsito, Ramiro (62641)}
 \date{Actualizado: \today}
@@ -23,188 +23,22 @@
 \maketitle
 
 \section{Introducción}
-\hspace{1cm}En el marco de la teoría de circuitos, llevamos a cabo una experimentación centrada en el estudio de circuitos RLC.
- El experimento se dividió en cuatro partes, abordando los aspectos fundamentales de resonancia,
-  respuesta en frecuencia y respuesta transitoria.
+\hspace{1cm}
 
-\hspace{1cm}En la primera parte se construyó el circuito RLC y, variando la frecuencia, se identificó
- la frecuencia de resonancia $f_0$ determinada por la máxima amplitud de tensión sobre
-  la resistencia. Luego, se calculó caída de tensión relacionada con $f_1$ y $f_2$ y 
-  se midieron sus valores. Finalmente se computó el factor de calidad $Q$ y el ancho 
-  de banda $\mathcal{B}$.
+\hspace{1cm}
 
-\hspace{1cm}En las siguientes dos partes se caracterizó la respuesta en frecuencia del sistema 
-al variar la frecuencia de entrada. Esto implicó la medición y análisis de la ganancia y 
-fase de la salida en relación con la entrada de manera tanto analítica como experimental.
-
-\hspace{1cm}Finalmente, la última etapa aborda el estudio de la respuesta transitoria. 
-Esta etapa de la experiencia consitía en variar la resistencia del circuito con un 
-potenciómetro e identificar cuando el sistema se encontraba en estado sub 
-amortiguado, críticamente amortiguado o sobreamortiguado. 
-Por restricciones temporales, esta parte no pudo ser efectuada.
+\hspace{1cm}
+\hspace{1cm}
 
 \section{Materiales utilizados}
 
 \begin{itemize}
-\item Osciloscopio digital para realizar las mediciones
-\item Generador de funciones para controlar la tension de entrada al circuito.
-\item Una fuente de corriente continua para alimentar al generador de funciones.
-\item Una placa de pruebas (protoboard) para realizar las conexiones.
-\item Un amplificador operacional configurado como buffer para evitar cargar al generador de funciones.
+\item
+\item 
 \end{itemize}
 
 \section{Desarrollo}
 
 \hspace{1cm} El siguiente fue el circuito utilizado para las 4 partes de la experiencia.
-
-\begin{figure}[H]
-    \centering
-    \begin{circuitikz}[american, cute inductors, scale=0.5]
-        \draw (0,0) to[V,invert,l=$V(jw)$] (0,3)
-                    to[R, l=$220\Omega$] (4,3)
-                    to[L, l=$220\mu H$] (8,3)
-                    to[C, l=$15nF$] (8,0)
-                    to[short] (0,0);
-    \end{circuitikz}
-    \label{fig:Circuito2}
-\end{figure}
-
-\subsection{Parte 1}
-\hspace{1cm}El osciloscopio fue conectado a los bornes de la resistencia de $220\Omega$ para medir la caída
- de potencial $V_R$. El generador de funciones fue configurado para tener una diferencia de potencial $3V$ pico 
- a pico y el buffer fue alimentado con 30V simétricos. 
-
-\begin{table}[h]
-    \centering
-    \begin{tabular}{|c|c|c|} % Definir dos columnas centradas
-      \hline
-      Frecuencia & Experimental & Analítica \\
-      \hline
-      $f_0$ & 92 KHz & 87,611KHz \\
-      \hline
-    \end{tabular}
-    \label{tabla:ejemplo}
-\end{table}
-
-\begin{figure}[h!]
-    \centering
-    \includegraphics[width=0.45\linewidth]{w0.jpg}
-    \caption{$V_R$ en resonancia}
-\end{figure}
-
-\hspace{1cm}El valor máximo de tensión $V_{R}$ fue el siguiente:
-\[V_{R_{Max}} = 1,48V\]
-
-\[\Longrightarrow  \frac{V_{R_{Max}}}{\sqrt{2}} = 1,04V \]
-
-\hspace{1cm} Luego se midieron los valores de frecuencia $f_1$ y $f_2$ para los cuales la caida de potencial en la resistencia sea:
-\[V_R = \frac{V_{R_{Max}}}{\sqrt{2}} = 1,04V \]
-A su vez, estos valores fueron calculados de manera analítica. Los resultados obtenidos fueron los siguientes: 
-\begin{table}[H]
-    \centering
-    \begin{tabular}{|c|c|c|} % Definir dos columnas centradas
-      \hline
-      Frecuencias & Experimentales & Analíticas \\
-      \hline
-      $f_1$ & 40KHz & 46KHz \\
-      \hline
-      $f_2$ & 208KHz & 190KHz \\
-      \hline
-    \end{tabular}
-    \label{tabla:ejemplo}
-\end{table}
-
-\begin{figure}[h!]
-    \centering
-    \begin{subfigure}{0.45\textwidth}
-        \centering
-        \includegraphics[width=\linewidth]{w1.jpg}
-        \caption{$V_R$ en el osciloscopio con el valor de frecuencia $f_1$}
-    \end{subfigure}
-    \hspace{0.5cm}
-    \begin{subfigure}{0.45\textwidth}
-        \centering
-        \includegraphics[width=\linewidth]{w2.jpg}
-        \caption{$V_R$ en el osciloscopio con el valor de frecuencia $f_2$}
-    \end{subfigure}
-\end{figure}
-
-Finalmente, con los datos calculamos el factor de calidad y el ancho de banda.
-\[ \Delta B_f = |f_1 - f_2|\]
-\[ \Delta B_w = 2\pi|f_1 - f_2|\]
-\[ \omega_0 = \frac{1}{\sqrt{LC}}\]
-\[ Q = \frac{\omega_0}{\Delta B_w} \]
-
-\begin{table}[h!]
-    \centering
-    \begin{tabular}{|c|c|c|} % Definir dos columnas centradas
-      \hline
-      \ & Experimentales & Analíticos \\
-      \hline
-      $Q$ & 0,521 & 0,608 \\
-      \hline
-      $\Delta B_f$ & 168KHz & 144KHz \\
-      \hline
-    \end{tabular}
-    \label{tabla:ejemplo}
-\end{table}
-
-\subsection{Partes 2 y 3}
-\hspace{1cm} En estas dos secciones de la experiencia se tomaron una serie de mediciones 
-de la amplitud y fase de $V_R$ con respecto de la señal de entrada $V_{in}$, haciendo variar la frecuencia del generador de funciones.
-
-\hspace{1cm} La función de transferencia del circuito RLC serie es la siguiente:
-
-\[H(s) = \frac{V_R}{V_{in}} = \frac{Rs/L}{s^2+\frac{Rs}{L}+\frac{1}{LC}}\]
-Reemplazando los valores de cada componente, 
-la ganancia en tensión teórica es:\\
-\[H(s) = \frac{1\times10^6s}{s^2+1\times10^6s+303\times10^9}\]
-quedando como polos de la función 
-de transferencia dos polos complejos conjugados:
-\[s_1 = -500KHz + j230,2KHz\]
-\[s_2 = -500KHz - j230,2KHz\]
-De aqui se puede ver que el comportamiento en régimen transitorio del circuito en esta configuración es subamortiguado por las raíces de la ecuación característica.
-
-\subsection{Gráficos de Bode}
-\hspace{1cm}Los gráficos presentados ilustran la coincidencia entre los resultados experimentales y las simulacicones. Se observa una similitud significativa en los valores cercanos a la frecuencia de resonancia, lo que indica una concordancia entre los datos empíricos y los obtenidos mediante simulación.
-
-\textbf{Medición de Ganancia:}
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.8\linewidth]{GraficoGanancia.png}
-\end{figure}
-
-\textbf{Simulación de Ganancia:}
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.8\linewidth]{SimulacionGanancia.png}
-\end{figure}
-
-\vspace{5cm}
-
-\textbf{Medición de Fase}:
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.8\linewidth]{GraficoFase.png}
-\end{figure}
-
-\textbf{Simulación de Fase}:
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.8\linewidth]{SimulacionFase.png}
-\end{figure}
-
-\section{Análisis de los resultados}
-\hspace{1cm}Como es posible observar tanto en los graficos simulados como en los medidos, el circuito funciona como filtro pasa-banda, es decir, 
-que reduce la tension $V_R$ conforme la frecuencia se aleja de la frecuencia de resonancia, y aquellas que se encuentren fuera 
-del ancho de banda son fuertemente atenuadas. 
-
-\hspace{1cm}Con los parámetros de inductancia y capacitancia de nuestro circuito, dicha frecuencia de 
-resonancia se encuentra alrededor de los 92KHz (medido experimentalmente). Sin embargo, dado al bajo factor de calidad que presenta el circuito se puede observar que si bien deja pasar mayoritariamente la frecuencia de resonancia, no es muy efectivo en filtrar el resto y por ende se tiene un gran ancho de banda.
-
-\section{Conclusion}
-\hspace{1cm}En sintesis, en la experienca de laboratorio fue posible observar varios aspectos de un circuito  de segundo orden y los efectos del cambio de frecuencia en el mismo. Ademas, fue posble observar la correlacion entre los valores teoricos y los medidos de manera empirica.
 
 \end{document}

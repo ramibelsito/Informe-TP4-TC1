@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.10.30)  9 NOV 2023 20:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.10.30)  9 NOV 2023 20:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -494,158 +494,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 31.
- [1
-
-{/home/rami/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/rami/.miktex/texmfs/install/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-
-LaTeX Warning: File `w0.jpg' not found on input line 91.
 
 
-/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex:91: Package pdftex.def Error: File `w0.jpg' not found: using draft setting.
+Package caption Warning: Unused \captionsetup[figure] on input line 15.
+See the caption package documentation for explanation.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...ludegraphics[width=0.45\linewidth]{w0.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+[1
 
-[2]
-
-LaTeX Warning: File `w1.jpg' not found on input line 121.
-
-
-/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex:121: Package pdftex.def Error: File `w1.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.121 ...includegraphics[width=\linewidth]{w1.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 122.
-
-LaTeX Warning: File `w2.jpg' not found on input line 127.
-
-
-/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex:127: Package pdftex.def Error: File `w2.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127 ...includegraphics[width=\linewidth]{w2.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
-
- []
-
-
-LaTeX Warning: File `GraficoGanancia.png' not found on input line 175.
-
-
-/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex:175: Package pdftex.def Error: File `GraficoGanancia.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.175 ...width=0.8\linewidth]{GraficoGanancia.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[4]
-
-LaTeX Warning: File `SimulacionGanancia.png' not found on input line 181.
-
-
-/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex:181: Package pdftex.def Error: File `SimulacionGanancia.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 ...th=0.8\linewidth]{SimulacionGanancia.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[5]
-
-LaTeX Warning: File `GraficoFase.png' not found on input line 190.
-
-
-/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex:190: Package pdftex.def Error: File `GraficoFase.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.190 ...ics[width=0.8\linewidth]{GraficoFase.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[6]
-
-LaTeX Warning: File `SimulacionFase.png' not found on input line 196.
-
-
-/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex:196: Package pdftex.def Error: File `SimulacionFase.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.196 ...[width=0.8\linewidth]{SimulacionFase.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[7]
-Overfull \hbox (6.77065pt too wide) in paragraph at lines 204--206
-[] \OT1/cmr/m/n/12 Con los par^^Sametros de inductancia y capacitancia de nuestro circuito, dicha frecuencia
- []
-
-[8] (TP4.aux)
+{/home/rami/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/rami/.miktex/texmfs/install/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (TP4.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 35922 strings out of 477183
- 938619 string characters out of 5809612
- 1931807 words of memory out of 5000000
- 56879 multiletter control sequences out of 15000+600000
- 564765 words of font info for 59 fonts, out of 8000000 for 9000
+ 35101 strings out of 477183
+ 917150 string characters out of 5809612
+ 1921807 words of memory out of 5000000
+ 56065 multiletter control sequences out of 15000+600000
+ 560628 words of font info for 45 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 99i,11n,103p,560b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on TP4.pdf (8 pages, 153037 bytes).
+ 99i,7n,103p,560b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on TP4.pdf (1 page, 51554 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
