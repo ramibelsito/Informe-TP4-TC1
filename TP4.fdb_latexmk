@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1699583548 "d:/VSCode/TP4_TC/Informe-TP4-TC1/TP4.tex" "TP4.pdf" "TP4" 1699583549 0
+["pdflatex"] 1699584216 "d:/VSCode/TP4_TC/Informe-TP4-TC1/TP4.tex" "TP4.pdf" "TP4" 1699584218 0
   "C:/Users/Facu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697762518 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Facu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1695309689 14064 1907e622a4d55de50e9a60a6224c2f34 ""
   "C:/Users/Facu/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1694042988 24141563 4801cadbdbd84acea28a117c3907e2d0 ""
@@ -144,9 +144,9 @@
   "C:/Users/Facu/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/Facu/AppData/Local/Programs/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
   "C:/Users/Facu/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "TP4.aux" 1699583549 1564 b567bf4ffd1616401d6f95455b0a56f6 "pdflatex"
-  "TP4.tex" 1699583547 5778 3175c0dd563de6c955cbf72ccf2de9b6 ""
-  "d:/VSCode/TP4_TC/Informe-TP4-TC1/TP4.tex" 1699583547 5778 3175c0dd563de6c955cbf72ccf2de9b6 ""
+  "TP4.aux" 1699584217 1564 b567bf4ffd1616401d6f95455b0a56f6 "pdflatex"
+  "TP4.tex" 1699584216 6415 bb0d7c22e4112f68fd92a099956d6eb8 ""
+  "d:/VSCode/TP4_TC/Informe-TP4-TC1/TP4.tex" 1699584216 6415 bb0d7c22e4112f68fd92a099956d6eb8 ""
   "tabla1.jpg" 1699581879 54340 d0eb391cec1d96e1a8cb077f7dc76915 ""
   "tabla2.jpg" 1699581932 38555 ca6fa57f3f2cdb5f18a93730b62fde5a ""
   (generated)
