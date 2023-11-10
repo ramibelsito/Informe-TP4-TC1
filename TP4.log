@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.10.30)  9 NOV 2023 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.6)  9 NOV 2023 23:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex
-(/home/rami/TeoriaCircuitos1/Informe-TP4-TC1/TP4.tex
+**d:/VSCode/TP4_TC/Informe-TP4-TC1/TP4.tex
+(d:/VSCode/TP4_TC/Informe-TP4-TC1/TP4.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
-(/home/rami/.miktex/texmfs/install/tex/latex/base/article.cls
+(C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(/home/rami/.miktex/texmfs/install/tex/latex/base/size12.clo
+(C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,14 +23,14 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/home/rami/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/home/rami/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (/home/rami/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/home/rami/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count193
@@ -45,7 +45,7 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen147
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks18
- (/home/rami/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg)) (/home/rami/.miktex/texmfs/install/tex/latex/ulem/ulem.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
 \UL@box=\box51
 \UL@hyphenbox=\box52
 \UL@skip=\skip50
@@ -56,42 +56,42 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \ULC@box=\box53
 Package: ulem 2019/11/18
 \ULdepth=\dimen151
-) (/home/rami/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/home/rami/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/home/rami/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/home/rami/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/home/rami/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
-) (/home/rami/.miktex/texmfs/install/tex/latex/float/float.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count197
 \float@exts=\toks20
 \float@box=\box54
 \@float@everytoks=\toks21
 \@floatcapt=\box55
-) (/home/rami/.miktex/texmfs/install/tex/latex/parskip/parskip.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
- (/home/rami/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (/home/rami/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/home/rami/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (/home/rami/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count198
-)) (/home/rami/.miktex/texmfs/install/tex/latex/caption/caption.sty
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/07/31 v3.6n Customizing captions (AR)
- (/home/rami/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen154
 \captionmargin=\dimen155
@@ -106,13 +106,13 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count199
 \c@continuedfloat=\count266
 Package caption Info: float package is loaded.
-) (/home/rami/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count267
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count268
-) (/home/rami/.miktex/texmfs/install/tex/latex/siunitx/siunitx.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
 Package: siunitx 2023-09-01 v3.3.6 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count269
 \l__siunitx_number_exponent_fixed_int=\count270
@@ -128,19 +128,19 @@ Package: siunitx 2023-09-01 v3.3.6 A comprehensive (SI) units package
 \l__siunitx_angle_marker_box=\box56
 \l__siunitx_angle_unit_box=\box57
 \l__siunitx_compound_count_int=\count279
- (/home/rami/.miktex/texmfs/install/tex/latex/translations/translations.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
- (/home/rami/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/home/rami/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (/home/rami/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/home/rami/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen163
@@ -158,7 +158,7 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 \l__siunitx_unit_tmp_int=\count280
 \l__siunitx_unit_position_int=\count281
 \l__siunitx_unit_total_int=\count282
- (/home/rami/.miktex/texmfs/install/tex/latex/tools/array.sty
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen168
 \ar@mcellbox=\box64
@@ -167,24 +167,24 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \extratabsurround=\skip51
 \backup@length=\skip52
 \ar@cellbox=\box65
-)) (/home/rami/.miktex/texmfs/install/tex/latex/circuitikz/circuitikz.sty
-Package: circuitikz 2023/06/23{} The CircuiTikz circuit drawing package version 1.6.3
- (/home/rami/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty (/home/rami/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty (/home/rami/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty (/home/rami/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.sty
+Package: circuitikz 2023/10/10{} The CircuiTikz circuit drawing package version 1.6.4
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks24
 \pgfutil@tempdima=\dimen170
 \pgfutil@tempdimb=\dimen171
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box66
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex (/home/rami/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (/home/rami/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty (/home/rami/.miktex/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty (/home/rami/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks25
 \pgfkeys@temptoks=\toks26
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks27
 ))
 \pgf@x=\dimen172
@@ -207,27 +207,27 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokb=\toks29
 \t@pgf@tokc=\toks30
 \pgf@sys@id@count=\count287
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+))) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count288
 \pgfsyssoftpath@bigbuffer@items=\count289
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/home/rami/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
- (/home/rami/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
- (/home/rami/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx)
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -237,18 +237,18 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen182
 \pgfmath@count=\count290
 \pgfmath@box=\box67
 \pgfmath@toks=\toks31
 \pgfmath@stack@operand=\toks32
 \pgfmath@stack@operation=\toks33
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count291
-)) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfint.code.tex) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen183
 \pgf@picmaxx=\dimen184
@@ -264,75 +264,75 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen194
 \pgf@zx=\dimen195
 \pgf@zy=\dimen196
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen197
 \pgf@path@lasty=\dimen198
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen199
 \pgf@shorten@start@additional=\dimen256
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box68
 \pgf@hbox=\box69
 \pgf@layerbox@main=\box70
 \pgf@picture@serial@count=\count292
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen257
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen258
 \pgf@pt@y=\dimen259
 \pgf@pt@temp=\dimen260
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen261
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen262
 \pgf@sys@shading@range@num=\count293
 \pgf@shadingcount=\count294
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box71
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+))) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box72
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen263
 \pgf@nodesepend=\dimen264
-) (/home/rami/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (/home/rami/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty (/home/rami/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty (/home/rami/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/home/rami/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty (/home/rami/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen265
 \pgffor@skip=\dimen266
 \pgffor@stack=\toks34
 \pgffor@toks=\toks35
-)) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@plot@mark@count=\count295
 \pgfplotmarksize=\dimen267
@@ -353,31 +353,31 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikznumberofchildren=\count297
 \tikznumberofcurrentchild=\count298
 \tikz@fig@count=\count299
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfmatrixcurrentrow=\count300
 \pgfmatrixcurrentcolumn=\count301
 \pgf@matrix@numberofcolumns=\count302
 )
 \tikz@expandcount=\count303
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+))) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowinset=\dimen276
 \pgfarrowlength=\dimen277
 \pgfarrowwidth=\dimen278
 \pgfarrowlinewidth=\dimen279
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybending.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybending.code.tex
 File: tikzlibrarybending.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulebending.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulebending.code.tex
 File: pgfmodulebending.code.tex 2023-01-15 v3.1.10 (3.1.10)
- (/home/rami/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulenonlineartransformations.code.tex
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulenonlineartransformations.code.tex
 File: pgfmodulenonlineartransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgftransformnonlinearflatness=\dimen280
-) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarycurvilinear.code.tex
 File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@curvilinear@time@a=\dimen281
 \pgf@curvilinear@length@a=\dimen282
@@ -386,7 +386,7 @@ File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@curvilinear@length@d=\dimen285
 )
 \pgf@arrows@the@rigidity=\dimen286
-)) (/home/rami/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfpu.code.tex (/home/rami/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirc.defines.tex
+)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfpu.code.tex (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.defines.tex
 \pgf@circ@count@a=\count304
 \pgf@circ@count@b=\count305
 \pgf@circ@count@c=\count306
@@ -401,15 +401,16 @@ File: pgflibrarycurvilinear.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@circ@Rlen=\dimen295
 \pgf@circ@scaled@Rlen=\dimen296
 \pgfstartlinewidth=\dimen297
-) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircutils.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircutils.tex
 \ctikz@scratchbox=\box77
-) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircpath.tex) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircshapes.tex) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircmonopoles.tex) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircbipoles.tex) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirctripoles.tex
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpath.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircshapes.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmonopoles.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbipoles.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctripoles.tex
 \pgf@circ@res@count=\count307
-) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircquadpoles.tex) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircmultipoles.tex) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirclabel.tex) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircvoltage.tex
+)
+(C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircquadpoles.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmultipoles.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclabel.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvoltage.tex
 \pgfcirc@labelshift=\dimen298
-) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcirccurrent.tex) (/home/rami/.miktex/texmfs/install/tex/generic/circuitikz/pgfcircflow.tex))
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccurrent.tex) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflow.tex))
 Package translations Info: No language package found. I am going to use `english' as default language. on input line 22.
- (/home/rami/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count308
 \l__pdf_internal_box=\box78
@@ -465,7 +466,7 @@ LaTeX Font Info:    ... okay on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/home/rami/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+(C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count309
 \scratchdimen=\dimen299
@@ -478,15 +479,15 @@ LaTeX Font Info:    ... okay on input line 22.
 \MPnumerator=\count313
 \makeMPintoPDFobject=\count314
 \everyMPtoPDFconversion=\toks37
-) (/home/rami/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/home/rami/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (/home/rami/.miktex/texmfs/install/tex/latex/translations/dicts/translations-basic-dictionary-english.trsl
+ (C:\Users\Facu\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 22.
@@ -494,49 +495,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 23.
-
-Overfull \hbox (2.10126pt too wide) in paragraph at lines 30--35
-[]  \OT1/cmr/m/n/12 Para desarrollar el experimento, se utilizar^^San bobinas que nos permitan intercambiar
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 41.
+ [1
 
-Overfull \hbox (22.86745pt too wide) in paragraph at lines 41--43
-[]\OT1/cmr/m/n/12 Dos bobinados con n^^Sucleo abierto y resistencias internas de 21,5$
-$ y 23$
-$ respectivamente. 
- []
+{C:/Users/Facu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<tabla1.jpg, id=13, 582.37575pt x 76.48575pt>
+File: tabla1.jpg Graphic file (type jpg)
+<use tabla1.jpg>
+Package pdftex.def Info: tabla1.jpg  used on input line 93.
+(pdftex.def)             Requested size: 452.9679pt x 59.49289pt.
 
-[1
 
-{/home/rami/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/rami/.miktex/texmfs/install/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package caption Warning: Unused \captionsetup[figure] on input line 15.
-See the caption package documentation for explanation.
-
-[2] (TP4.aux)
+[2]
+<tabla2.jpg, id=18, 434.8245pt x 78.89474pt>
+File: tabla2.jpg Graphic file (type jpg)
+<use tabla2.jpg>
+Package pdftex.def Info: tabla2.jpg  used on input line 106.
+(pdftex.def)             Requested size: 452.9679pt x 82.18822pt.
+ [3 <./tabla1.jpg> <./tabla2.jpg>] (TP4.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 35124 strings out of 477183
- 917395 string characters out of 5809612
- 1925807 words of memory out of 5000000
- 56081 multiletter control sequences out of 15000+600000
+ 35393 strings out of 475248
+ 928176 string characters out of 5758286
+ 1926801 words of memory out of 5000000
+ 56590 multiletter control sequences out of 15000+600000
  563720 words of font info for 55 fonts, out of 8000000 for 9000
- 0 hyphenation exceptions out of 8191
- 99i,7n,103p,560b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/rami/.miktex/texmfs/install/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on TP4.pdf (2 pages, 68552 bytes).
+ 1141 hyphenation exceptions out of 8191
+ 99i,7n,103p,549b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Facu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Facu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Facu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Facu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Facu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Facu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on TP4.pdf (3 pages, 168351 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
